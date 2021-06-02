@@ -4,3 +4,5 @@ Seal Bin generates an endpoint URL that will collect POST requests made to it an
 Use Seal Bin to inspect and debug webhook requests.
 
 Seal Bin is built using Node.js and uses web-sockets to render new requests without a page refresh.
+
+Check it out at [http://sealbin.eustisic.me/]http://sealbin.eustisic.me/).
